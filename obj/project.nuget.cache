@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/P0YWwvzFqkeMTbVpHDFetULxEr7Sdw4hOtZqmogUrVd8Fw+rrGOvIkYcaTN6pMVcSmslkRX1576GaGAWG9COQ==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\Interviews\\app\\app.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://203.127.254.70/api/v4/projects/71/packages/nuget/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
